@@ -17,8 +17,8 @@ This material is presented to ensure timely dissemination of scholarly and techn
 ## 2023
 - "A survey on event-based news narrative extraction", B. Keith, T. Mitra & C. North - ACM Computing Surveys. [PDF](http://briankeithn.github.io/files/2023_CSUR.pdf)
 - "Mixed Multi-Model Semantic Interaction for Graph-based Narrative Visualizations", B. Keith, T. Mitra & C. North - IUI 2023, Australia. [PDF](http://briankeithn.github.io/files/2023_IUI.pdf)
-- "Watching the Watchdogs: Using Transparency Cues to Help News Audiences Assess Information Quality", B. Keith, K. Reis, T. Mitra, M. Horning - Media and Communication (accepted). [PDF](http://briankeithn.github.io/files/2023_MaC.pdf)
 - "An extension of the characteristic curve model of plant species behavior in heavy metal soils", E. Lam, B. Keith, J. Bech, M. Gálvez, R. Rojas, F. Alvarez, V. Zetola & I. Montofré - Environmental Geochemistry and Health. [PDF](http://briankeithn.github.io/files/2023_Curves.pdf)
+- "Watching the Watchdogs: Using Transparency Cues to Help News Audiences Assess Information Quality", B. Keith, K. Reis, T. Mitra & M. Horning - Media and Communication (accepted). [PDF](http://briankeithn.github.io/files/2023_MaC.pdf)
 
 ## 2022
 - "Design guidelines for narrative maps in sensemaking tasks", B. Keith, T. Mitra & C. North - Information Visualization. [PDF](http://briankeithn.github.io/files/2022_InfoVis.pdf)
