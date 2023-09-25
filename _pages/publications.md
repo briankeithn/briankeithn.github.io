@@ -58,7 +58,7 @@ This material is presented to ensure timely dissemination of scholarly and techn
 - "Evaluation of soil intervention values in mine tailings in northern Chile", E. Lam, B. Keith, Í. Montofré & M. Gálvez - PeerJ. [PDF](http://briankeithn.github.io/files/2018_PeerJ.pdf)
 - "Empirical Evaluation of the BCOC Method on Multi-Domain Sentiment Analysis Data Sets", B. Keith & C. Meneses - CIARP 2018, Spain. [PDF](http://briankeithn.github.io/files/2018_CIARP.pdf)
 - "The relevance of hyper-parameters in convolutional neural networks: a case study with Fashion-MNIST", R. Sánchez & B. Keith - WDKE-INFONOR 2018, Chile. [PDF](http://briankeithn.github.io/files/2018_WDKE_MNIST.pdf)
-- "The LapRLS Algorithm as a Simple Approach to Sentiment Analysis Lexicon Construction", B. Keith & I. Jirón - WDKE-INFONOR 2018, Chile. [PDF](http://briankeithn.github.io/files/2018_LapRLS.pdf) 
+- "The LapRLS Algorithm as a Simple Approach to Sentiment Analysis Lexicon Construction", B. Keith & I. Jirón - WDKE-INFONOR 2018, Chile. [PDF](http://briankeithn.github.io/files/2018_WDKE_LapRLS.pdf) 
 - "Twitter Sentiment Analysis applied to the 2017 Chilean Elections", T. Alegre & B. Keith - WDKE-INFONOR 2018, Chile. [PDF](http://briankeithn.github.io/files/2018_WDKE_Elections.pdf)
 
 ## 2017
