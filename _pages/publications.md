@@ -14,6 +14,10 @@ This material is presented to ensure timely dissemination of scholarly and techn
 {% include base_path %}
 
 # Full Publication List
+## 2024
+- "Evaluating the Ability of Computationally Extracted Narrative Maps to Encode Media Framing", S. Concha & B. Keith - Text2Story Workshop 2024 [PDF](http://briankeithn.github.io/files/2024_Framing.pdf)
+- "ROGER: Extracting Narratives Using Large Language Models from Robert Gerstmann's Historical Photo Archive of the Sacambaya Expedition in 1928", M. Matus, D. Urrutia, C. Meneses & B. Keith - Text2Story Workshop 2024 [PDF](http://briankeithn.github.io/files/2024_ROGER.pdf)
+
 ## 2023
 - "A survey on event-based news narrative extraction", B. Keith, T. Mitra & C. North - ACM Computing Surveys. [PDF](http://briankeithn.github.io/files/2023_CSUR.pdf)
 - "Mixed Multi-Model Semantic Interaction for Graph-based Narrative Visualizations", B. Keith, T. Mitra & C. North - IUI 2023, Australia. [PDF](http://briankeithn.github.io/files/2023_IUI.pdf)
