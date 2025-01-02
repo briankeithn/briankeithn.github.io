@@ -27,8 +27,8 @@ International Journal of Phytoremediation. [PDF](http://briankeithn.github.io/fi
 - "From Mine Waste to Construction Materials: A Bibliometric
 Analysis of Mining Waste Recovery and Tailing Utilization
 in Construction", V. Zetola, B. Keith, E. Lam, Í. Montofré, R. Rojas, J. Marín & M. Becerra - Sustainability. [PDF](http://briankeithn.github.io/files/2024_Sustainability.pdf)
-- "Enhancing Chatbot Performance with Retrieval Augmented Generation and Prompt Engineering", J. Rivera, S. Zapata, R. Pizarro & B. Keith - WDKE-INFONOR 2024 [PDF](http://briankeithn.github.io/files/2024_Pignus.pdf)
-- "Desarrollo de habilidades de comunicación en estudiantes de ingeniería: Una investigación-acción sobre estrategias de retroalimentación efectiva", C. Rojas, B. Keith, E. Huerta, G. Alarcón, M. Tapia, I. Rampasso - SOCHEDI 2024 [PDF](http://briankeithn.github.io/files/2024_SOCHEDI.pdf).
+- "Enhancing Chatbot Performance with Retrieval Augmented Generation and Prompt Engineering", J. Rivera, S. Zapata, R. Pizarro & B. Keith - WDKE-INFONOR 2024. [PDF](http://briankeithn.github.io/files/2024_Pignus.pdf)
+- "Desarrollo de habilidades de comunicación en estudiantes de ingeniería: Una investigación-acción sobre estrategias de retroalimentación efectiva", C. Rojas, B. Keith, E. Huerta, G. Alarcón, M. Tapia, I. Rampasso - SOCHEDI 2024. [PDF](http://briankeithn.github.io/files/2024_SOCHEDI.pdf)
 
 ## 2023
 - "A survey on event-based news narrative extraction", B. Keith, T. Mitra & C. North - ACM Computing Surveys. [PDF](http://briankeithn.github.io/files/2023_CSUR.pdf)
