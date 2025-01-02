@@ -11,3 +11,6 @@ main:
 
   - title: "CV"
     url: /files/cv.pdf
+
+  - title: "About Me"
+    url: /about/
