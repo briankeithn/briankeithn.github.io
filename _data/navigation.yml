@@ -1,5 +1,8 @@
 # main links links
 main:
+  - title: "About Me"
+    url: /
+  
   - title: "Interactive Narrative Analytics"
     url: /ina/    
 
@@ -11,6 +14,3 @@ main:
 
   - title: "CV"
     url: /files/cv.pdf
-
-  - title: "About Me"
-    url: /
