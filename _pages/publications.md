@@ -14,9 +14,21 @@ This material is presented to ensure timely dissemination of scholarly and techn
 {% include base_path %}
 
 # Full Publication List
+## 2025
+- "Semi-supervised image-based narrative extraction: A case study with historical photographic records", F. German, B. Keith, M. Matus, D. Urrutia & C. Meneses - ECIR 2025, Italy. [Final Version Pending]
+
 ## 2024
-- "Evaluating the Ability of Computationally Extracted Narrative Maps to Encode Media Framing", S. Concha & B. Keith - Text2Story Workshop 2024, Scotland. [PDF](http://briankeithn.github.io/files/2024_Framing.pdf)
 - "ROGER: Extracting Narratives Using Large Language Models from Robert Gerstmann's Historical Photo Archive of the Sacambaya Expedition in 1928", M. Matus, D. Urrutia, C. Meneses & B. Keith - Text2Story Workshop 2024, Scotland. [PDF](http://briankeithn.github.io/files/2024_ROGER.pdf)
+- "Evaluating the Ability of Computationally Extracted Narrative Maps to Encode Media Framing", S. Concha & B. Keith - Text2Story Workshop 2024, Scotland. [PDF](http://briankeithn.github.io/files/2024_Framing.pdf)
+- "Evaluation of the Geochemical Background of Soil in a Hyper-Arid Zone using a Multivariate Statistical Methodology: The Case of the City of Antofagasta in the Atacama Desert", B. Keith, E. Lam, Í. Montofré, V. Zetola, J. Urrutia, C. Herrera & J. Bech - Chemosphere. [PDF](http://briankeithn.github.io/files/2024_Chemosphere.pdf)
+- "Predictive modeling of on‐time graduation in computing engineering programs: A case study from Northern Chile", A. Quelopana, B. Keith & R. Pizarro - Computer Applications in Engineering Education. [PDF](http://briankeithn.github.io/files/2024_CAE.pdf)
+- "The Scientific Landscape of Phytoremediation of Tailings: A Bibliometric and Scientometric Analysis", B. Keith, E. Lam, Í. Montofré, V. Zetola, & J. Bech - 
+International Journal of Phytoremediation. [PDF](http://briankeithn.github.io/files/2024_Tailings_Draft.pdf)
+- "From Mine Waste to Construction Materials: A Bibliometric
+Analysis of Mining Waste Recovery and Tailing Utilization
+in Construction", V. Zetola, B. Keith, E. Lam, Í. Montofré, R. Rojas, J. Marín & M. Becerra - Sustainability. [PDF](http://briankeithn.github.io/files/2024_Sustainability.pdf)
+- "Enhancing Chatbot Performance with Retrieval Augmented Generation and Prompt Engineering", J. Rivera, S. Zapata, R. Pizarro & B. Keith - WDKE-INFONOR 2024 [PDF](http://briankeithn.github.io/files/2024_Pignus.pdf)
+- "Desarrollo de habilidades de comunicación en estudiantes de ingeniería: Una investigación-acción sobre estrategias de retroalimentación efectiva", C. Rojas, B. Keith, E. Huerta, G. Alarcón, M. Tapia, I. Rampasso - SOCHEDI 2024 [PDF](http://briankeithn.github.io/files/2024_SOCHEDI.pdf).
 
 ## 2023
 - "A survey on event-based news narrative extraction", B. Keith, T. Mitra & C. North - ACM Computing Surveys. [PDF](http://briankeithn.github.io/files/2023_CSUR.pdf)
