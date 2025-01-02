@@ -1,13 +1,13 @@
 # main links links
 main:
+  - title: "Interactive Narrative Analytics"
+    url: /ina/    
+
+  - title: "AI Innovation Center"
+    url: /ciara/    
+        
   - title: "Publications"
     url: /publications/
 
-#  - title: "Projects"
-#    url: /projects/    
-
-#  - title: "Teaching"
-#    url: /teaching/    
-        
   - title: "CV"
     url: /files/cv.pdf

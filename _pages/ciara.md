@@ -1,11 +1,9 @@
 ---
 layout: archive
-title: "Artificial Intelligence Innovation Center for the Antofagasta Region"
+title: "FRPD Grant 105908 - Artificial Intelligence Innovation Center for the Antofagasta Region"
 permalink: /ciara/
 author_profile: true
 ---
-
-# FRPD Grant 105908 - Artificial Intelligence Innovation Center for the Antofagasta Region
 This grant is funded by Regional Government of Antofagasta and its objective is to implement an Innovation Center focused on Artificial Intelligence for the Antofagasta Region that catalyzes digital transformation, fosters technological innovation, and develops advanced AI capabilities, contributing to sustainable economic growth and regional competitiveness in the knowledge economy.
 
 **Disclaimer**: This project has been approved by the Regional Government as part of the FRPD 2024 initiatives. Implementation will begin once all required administrative processes are completed. This page serves solely for informational and preliminary dissemination purposes.
