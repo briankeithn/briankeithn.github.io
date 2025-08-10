@@ -15,7 +15,16 @@ This material is presented to ensure timely dissemination of scholarly and techn
 
 # Full Publication List
 ## 2025
-- "Semi-supervised image-based narrative extraction: A case study with historical photographic records", F. German, B. Keith, M. Matus, D. Urrutia & C. Meneses - ECIR 2025, Italy. [Final Version Pending]
+- "Narrative Trails: A Method for Coherent Storyline Extraction via Maximum Capacity Path Optimization", F. German, B. Keith & C. North - Text2Story Workshop 2025, Italy. 🏆 Best Paper Award [PDF](http://briankeithn.github.io/files/2025_Trails.pdf)
+- "LLM-as-a-Judge Approaches as Proxies for Mathematical Coherence in Narrative Extraction", B. Keith - Electronics 2025. [PDF](http://briankeithn.github.io/files/2025_Judge.pdf)
+- "Semi-supervised image-based narrative extraction: A case study with historical photographic records", F. German, B. Keith, M. Matus, D. Urrutia & C. Meneses - ECIR 2025, Italy. [PDF](http://briankeithn.github.io/files/2025_Semisupervised.pdf)
+- "Explainable AI Components for Narrative Map Extraction", B. Keith, F. German, E. Krokos, S. Joseph & C. North - Text2Story Workshop 2025, Italy. [PDF](http://briankeithn.github.io/files/2025_XAI.pdf)
+- "A Multimodal Dataset of Fact-Checked News from Chile's Constitutional Processes: Collection, Processing, and Analysis", I. Molina, B. Keith & M. Matus - Data 2025. [PDF](http://briankeithn.github.io/files/2025_Data.pdf)
+- "Magnetic Properties as Proxies for Geochemical Prediction in Mining Tailings: A Semi-Supervised Spatial Approach", E. Lam, B. Keith, J. Bech, C. Herrera, J. Urrutia & I. Montofré - Minerals 2025. [PDF](http://briankeithn.github.io/files/2025_Magnetic.pdf)
+- "Imitating Human Reasoning to Extract 5W1H in News", C. Muñoz, M. Mendoza, H. Lobel & B. Keith - ACM WWW 2025, Australia. [PDF](http://briankeithn.github.io/files/2025_5W1H.pdf)
+- "Reinforcement learning in electric vehicle energy management: a comprehensive open-access review of methods, challenges, and future innovations", G. Ananganó-Alvarado, I. Umaña-Morel & B. Keith - Frontiers in Future Transportation 2025. [PDF](http://briankeithn.github.io/files/2025_RL.pdf)
+- "Desarrollo de Modelos de Quantum Machine Learning No Supervisado para Clustering de Datos Geoquímicos", M. Orellana, E. Lam & B. Keith - Congreso de la Sociedad Chilena de las Ciencias del Suelo 2025. [PDF](http://briankeithn.github.io/files/2025_SCHCS.pdf)
+- "Long-Term Open-Pit Mine Planning with Quantum Computing: Concepts, Reformulations, and Implementation", A. Quelopana, B. Keith & J. Canales - APCOM Conference 2025, Australia. [PDF](http://briankeithn.github.io/files/2025_APCOM.pdf)
 
 ## 2024
 - "ROGER: Extracting Narratives Using Large Language Models from Robert Gerstmann's Historical Photo Archive of the Sacambaya Expedition in 1928", M. Matus, D. Urrutia, C. Meneses & B. Keith - Text2Story Workshop 2024, Scotland. [PDF](http://briankeithn.github.io/files/2024_ROGER.pdf)
@@ -31,7 +40,7 @@ in Construction", V. Zetola, B. Keith, E. Lam, Í. Montofré, R. Rojas, J. Marí
 - "Desarrollo de habilidades de comunicación en estudiantes de ingeniería: Una investigación-acción sobre estrategias de retroalimentación efectiva", C. Rojas, B. Keith, E. Huerta, G. Alarcón, M. Tapia, I. Rampasso - SOCHEDI 2024. [PDF](http://briankeithn.github.io/files/2024_SOCHEDI.pdf)
 
 ## 2023
-- "A survey on event-based news narrative extraction", B. Keith, T. Mitra & C. North - ACM Computing Surveys. [PDF](http://briankeithn.github.io/files/2023_CSUR.pdf)
+- "A survey on event-based news narrative extraction", B. Keith, T. Mitra & C. North - ACM Computing Surveys. 📍 Selected for "Lo Mejor de lo Nuestro" LMN2024 at JCC2024 [PDF](http://briankeithn.github.io/files/2023_CSUR.pdf)
 - "Mixed Multi-Model Semantic Interaction for Graph-based Narrative Visualizations", B. Keith, T. Mitra & C. North - IUI 2023, Australia. [PDF](http://briankeithn.github.io/files/2023_IUI.pdf)
 - "An extension of the characteristic curve model of plant species behavior in heavy metal soils", E. Lam, B. Keith, J. Bech, M. Gálvez, R. Rojas, F. Alvarez, V. Zetola & I. Montofré - Environmental Geochemistry and Health. [PDF](http://briankeithn.github.io/files/2023_Curves.pdf)
 - "Watching the Watchdogs: Using Transparency Cues to Help News Audiences Assess Information Quality", B. Keith, K. Reis, T. Mitra & M. Horning - Media and Communication. [PDF](http://briankeithn.github.io/files/2023_MaC.pdf)
@@ -49,7 +58,7 @@ in Construction", V. Zetola, B. Keith, E. Lam, Í. Montofré, R. Rojas, J. Marí
 - "Narrative sensemaking: strategies for narrative maps construction", B. Keith, T. Mitra & C. North - IEEE VIS 2021, USA. [PDF](http://briankeithn.github.io/files/2021_VIS.pdf)
 
 ## 2020
-- "Evaluating the Inverted Pyramid Structure through Automatic 5W1H Extraction and Summarization", B. Keith, M. Horning & T. Mitra - C+J 2020, USA. [PDF](http://briankeithn.github.io/files/2020_CJ.pdf)
+- "Evaluating the Inverted Pyramid Structure through Automatic 5W1H Extraction and Summarization", B. Keith, M. Horning & T. Mitra - C+J 2020, USA. 📍 Selected for "Countering Noise, Bias & Uncertainty" Panel [PDF](http://briankeithn.github.io/files/2020_CJ.pdf)
 - "Twitter sentiment analysis for the estimation of voting intention in the 2017 Chilean elections", T. Alegre & B. Keith - Intelligent Data Analysis. [PDF](http://briankeithn.github.io/files/2020_IDA_TAS_Final.pdf)
 - "Avances en representaciones de texto: espacios vectoriales semánticos y word embeddings", L. Gutiérrez & B. Keith - CILCC 2018 - Book chapter on "Tecnologías del lenguaje humano". [PDF](http://briankeithn.github.io/files/2020_TLH.pdf)
 - "Using Artificial Intelligence Techniques to Improve the Prediction of Copper Recovery by Leaching", V. Flores, B. Keith & C. Leiva - Journal of Sensors. [PDF](http://briankeithn.github.io/files/2020_Sensors.pdf)

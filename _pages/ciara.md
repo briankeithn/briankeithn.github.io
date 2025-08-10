@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "FRPD Grant 105908 - Artificial Intelligence Innovation Center for the Antofagasta Region"
+title: "FRPD Grant (BIP 40067553-0) - Artificial Intelligence Innovation Center for the Antofagasta Region"
 permalink: /ciara/
 author_profile: true
 ---
@@ -8,7 +8,7 @@ This grant is funded by Regional Government of Antofagasta and its objective is 
 
 **Disclaimer**: This project has been approved by the Regional Government as part of the FRPD 2024 initiatives. Implementation will begin once all required administrative processes are completed. This page serves solely for informational and preliminary dissemination purposes.
 
-## Abstract
+## Summary
 This project aims to establish an Artificial Intelligence (AI) Innovation Center. The Center will focus on developing AI technologies tailored to regional needs, offering specialized training and talent development in AI, creating a collaboration platform following the triple-helix model, and incubating science- and technology-based AI startups. The initiative will focus on five key areas (computational infrastructure, education, collaboration networks, applied research, and incubation and acceleration) across three main lines: data science, intelligent systems, and emerging technologies. These will be applied to sectors such as mining, water management, renewable energy, and urban planning, among others. Expected outcomes include professional training, the development of research projects, the creation of AI-based startups, and the filing of patents. Sustainability will be ensured through mixed financing, strategic partnerships, consultancy services, and research funds. Knowledge transfer will be facilitated through training programs, events, and a digital platform. The project will benefit regional businesses, professionals, school and university students, entrepreneurs, public institutions, and the community at large. It aims to position Antofagasta as a benchmark in AI-driven innovation, accelerating its digital transformation and enhancing its global competitiveness for Industry 4.0.
 
 ## Specific Goals
