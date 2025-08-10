@@ -23,8 +23,9 @@ This material is presented to ensure timely dissemination of scholarly and techn
 - "Magnetic Properties as Proxies for Geochemical Prediction in Mining Tailings: A Semi-Supervised Spatial Approach", E. Lam, B. Keith, J. Bech, C. Herrera, J. Urrutia & I. Montofré - Minerals 2025. [PDF](http://briankeithn.github.io/files/2025_Magnetic.pdf)
 - "Imitating Human Reasoning to Extract 5W1H in News", C. Muñoz, M. Mendoza, H. Lobel & B. Keith - ACM WWW 2025, Australia. [PDF](http://briankeithn.github.io/files/2025_5W1H.pdf)
 - "Reinforcement learning in electric vehicle energy management: a comprehensive open-access review of methods, challenges, and future innovations", G. Ananganó-Alvarado, I. Umaña-Morel & B. Keith - Frontiers in Future Transportation 2025. [PDF](http://briankeithn.github.io/files/2025_RL.pdf)
-- "Desarrollo de Modelos de Quantum Machine Learning No Supervisado para Clustering de Datos Geoquímicos", M. Orellana, E. Lam & B. Keith - Congreso de la Sociedad Chilena de las Ciencias del Suelo 2025. [PDF](http://briankeithn.github.io/files/2025_SCHCS.pdf)
+- "Desarrollo de Modelos de Quantum Machine Learning no Supervisado para Clustering de Datos Geoquímicos", M. Orellana, E. Lam & B. Keith - Congreso de la Sociedad Chilena de las Ciencias del Suelo 2025. [PDF](http://briankeithn.github.io/files/2025_SCHCS.pdf)
 - "Long-Term Open-Pit Mine Planning with Quantum Computing: Concepts, Reformulations, and Implementation", A. Quelopana, B. Keith & J. Canales - APCOM Conference 2025, Australia. [PDF](http://briankeithn.github.io/files/2025_APCOM.pdf)
+- "Smart Measurement of Human Factors and Productivity in Industrial Contexts", J. Leyton, C. Rojas, A. Gómez & B. Keith - IJCIEOM Conference 2025, Italy. [PDF](http://briankeithn.github.io/files/2025_Smart.pdf)
 
 ## 2024
 - "ROGER: Extracting Narratives Using Large Language Models from Robert Gerstmann's Historical Photo Archive of the Sacambaya Expedition in 1928", M. Matus, D. Urrutia, C. Meneses & B. Keith - Text2Story Workshop 2024, Scotland. [PDF](http://briankeithn.github.io/files/2024_ROGER.pdf)
