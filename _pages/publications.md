@@ -14,17 +14,29 @@ This material is presented to ensure timely dissemination of scholarly and techn
 {% include base_path %}
 
 # Full Publication List
+
+## 2026
+- "Interactive Narrative Analytics: Bridging Computational Narrative Extraction and Human Sensemaking", B. Keith - IEEE Access 2026. [PDF](http://briankeithn.github.io/files/2026_INA.pdf)
+- "A Literature Review of LLM-as-a-Judge Methods for Evaluating 5W1H Information Extraction in the Context of Requirements Engineering", J. Cassola, I. Donoso & B. Keith - CIMPS 2025, Peru.
+- "Leveraging Data Analysis in Agile Software Development: Applications, Barriers, and Opportunities", J. Cassola, B. Keith & I. Donoso - CIMPS 2025, Peru.
+- "Managing Mining Environmental Liabilities in Arid Regions: Sustainable Circular Economy Approaches", E. Lam, I. Montofré & B. Keith - Book Chapter 2026.
+
 ## 2025
 - "Narrative Trails: A Method for Coherent Storyline Extraction via Maximum Capacity Path Optimization", F. German, B. Keith & C. North - Text2Story Workshop 2025, Italy. 🏆 Best Paper Award [PDF](http://briankeithn.github.io/files/2025_Trails.pdf)
+- "Narrative Maps Visualization Tool (NMVT): An interactive narrative analytics system based on the narrative maps framework", B. Keith - SoftwareX 2025. [PDF](http://briankeithn.github.io/files/2025_NMVT.pdf)
 - "LLM-as-a-Judge Approaches as Proxies for Mathematical Coherence in Narrative Extraction", B. Keith - Electronics 2025. [PDF](http://briankeithn.github.io/files/2025_Judge.pdf)
+- "VLM-as-a-Judge Approaches for Evaluating Visual Narrative Coherence in Historical Photographical Records", B. Keith, C. Meneses, M. Matus, MC. Castro & D. Urrutia - Electronics 2025. [PDF](http://briankeithn.github.io/files/2025_VLM.pdf)
 - "Semi-supervised image-based narrative extraction: A case study with historical photographic records", F. German, B. Keith, M. Matus, D. Urrutia & C. Meneses - ECIR 2025, Italy. [PDF](http://briankeithn.github.io/files/2025_Semisupervised.pdf)
 - "Explainable AI Components for Narrative Map Extraction", B. Keith, F. German, E. Krokos, S. Joseph & C. North - Text2Story Workshop 2025, Italy. [PDF](http://briankeithn.github.io/files/2025_XAI.pdf)
 - "A Multimodal Dataset of Fact-Checked News from Chile's Constitutional Processes: Collection, Processing, and Analysis", I. Molina, B. Keith & M. Matus - Data 2025. [PDF](http://briankeithn.github.io/files/2025_Data.pdf)
+- "Web Scraping Chilean News Media: A Dataset for Analyzing Social Unrest Coverage (2019–2023)", I. Molina, J. Morales & B. Keith - Data 2025. [PDF](http://briankeithn.github.io/files/2025_WebScraping.pdf)
 - "Magnetic Properties as Proxies for Geochemical Prediction in Mining Tailings: A Semi-Supervised Spatial Approach", E. Lam, B. Keith, J. Bech, C. Herrera, J. Urrutia & I. Montofré - Minerals 2025. [PDF](http://briankeithn.github.io/files/2025_Magnetic.pdf)
+- "Benchmarking Hierarchical and Spectral Clustering for Geochemical Baseline and Anomaly Detection in Hyper-Arid Soils of Northern Chile", G. Ananganó-Alvarado, B. Keith, E. Lam & I. Montofré - Minerals 2025. [PDF](http://briankeithn.github.io/files/2025_Benchmarking.pdf)
 - "Imitating Human Reasoning to Extract 5W1H in News", C. Muñoz, M. Mendoza, H. Lobel & B. Keith - ACM WWW 2025, Australia. [PDF](http://briankeithn.github.io/files/2025_5W1H.pdf)
 - "Reinforcement learning in electric vehicle energy management: a comprehensive open-access review of methods, challenges, and future innovations", G. Ananganó-Alvarado, I. Umaña-Morel & B. Keith - Frontiers in Future Transportation 2025. [PDF](http://briankeithn.github.io/files/2025_RL.pdf)
+- "Enhancing Chatbot Performance in a SaaS Platform Through Retrieval-Augmented Generation and Prompt Engineering: A Case Study in Behavioral Safety Analysis", J. Rivera, S. Zapata, R. Pizarro & B. Keith - Knowledge 2025. [PDF](http://briankeithn.github.io/files/2025_Chatbot.pdf)
 - "Desarrollo de Modelos de Quantum Machine Learning no Supervisado para Clustering de Datos Geoquímicos", M. Orellana, E. Lam & B. Keith - Congreso de la Sociedad Chilena de las Ciencias del Suelo 2025. [PDF](http://briankeithn.github.io/files/2025_SCHCS.pdf)
-- "Long-Term Open-Pit Mine Planning with Quantum Computing: Concepts, Reformulations, and Implementation", A. Quelopana, B. Keith & J. Canales - APCOM Conference 2025, Australia. [PDF](http://briankeithn.github.io/files/2025_APCOM.pdf)
+- "Advancing long-term open pit mine planning with quantum computing - concepts, reformulations and implementation", A. Quelopana, B. Keith & J. Canales - APCOM Conference 2025, Australia. [PDF](http://briankeithn.github.io/files/2025_APCOM.pdf)
 - "Smart Measurement of Human Factors and Productivity in Industrial Contexts", J. Leyton, C. Rojas, A. Gómez & B. Keith - IJCIEOM Conference 2025, Italy. [PDF](http://briankeithn.github.io/files/2025_Smart.pdf)
 
 ## 2024
