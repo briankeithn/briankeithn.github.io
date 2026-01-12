@@ -12,10 +12,9 @@ This grant is funded by ANID (*Agencia Nacional de Investigación y Desarrollo*)
 This project aims to advance the state-of-the-art in computational narrative extraction and interactive analytics to support sensemaking from large, complex collections of news articles. The rapid proliferation of online news and the increasing prevalence of misinformation and disinformation have made it ever more challenging and important for analysts and the public to make sense of the news landscape. Building on the PI's prior work on narrative maps and a theoretical foundation in narrative extraction and interactive visual analytics, this project will develop novel knowledge-informed models and scalable computational architectures to extract and interactively visualize the key entities, events, and storylines across large news corpora.
 
 ## Conceptual Framework
-
-![Interactive Narrative Analytics Conceptual Framework](/images/ina_framework.png)
-
 The Interactive Narrative Analytics framework integrates five core components: computational architectures for scalable processing, visualization approaches for large-scale narrative data, interaction mechanisms enabling human-in-the-loop semantic interactions, knowledge resources for domain integration and enhancement, and evaluation approaches for assessing narrative quality.
+
+<img src="/images/ina_framework.svg" alt="Interactive Narrative Analytics Conceptual Framework" width="700">
 
 ## Key Publications
 

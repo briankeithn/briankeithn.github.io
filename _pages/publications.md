@@ -17,9 +17,9 @@ This material is presented to ensure timely dissemination of scholarly and techn
 
 ## 2026
 - "Interactive Narrative Analytics: Bridging Computational Narrative Extraction and Human Sensemaking", B. Keith - IEEE Access 2026. [PDF](http://briankeithn.github.io/files/2026_INA.pdf)
-- "A Literature Review of LLM-as-a-Judge Methods for Evaluating 5W1H Information Extraction in the Context of Requirements Engineering", J. Cassola, I. Donoso & B. Keith - CIMPS 2025, Peru.
-- "Leveraging Data Analysis in Agile Software Development: Applications, Barriers, and Opportunities", J. Cassola, B. Keith & I. Donoso - CIMPS 2025, Peru.
-- "Managing Mining Environmental Liabilities in Arid Regions: Sustainable Circular Economy Approaches", E. Lam, I. Montofré & B. Keith - Book Chapter 2026.
+- "A Literature Review of LLM-as-a-Judge Methods for Evaluating 5W1H Information Extraction in the Context of Requirements Engineering", J. Cassola, I. Donoso & B. Keith - CIMPS 2025, Peru [In Press].
+- "Leveraging Data Analysis in Agile Software Development: Applications, Barriers, and Opportunities", J. Cassola, B. Keith & I. Donoso - CIMPS 2025, Peru [In Press].
+- "Managing Mining Environmental Liabilities in Arid Regions: Sustainable Circular Economy Approaches", E. Lam, I. Montofré & B. Keith - Book Chapter 2026 [In Press].
 
 ## 2025
 - "Narrative Trails: A Method for Coherent Storyline Extraction via Maximum Capacity Path Optimization", F. German, B. Keith & C. North - Text2Story Workshop 2025, Italy. 🏆 Best Paper Award [PDF](http://briankeithn.github.io/files/2025_Trails.pdf)
