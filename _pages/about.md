@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am an Assistant Professor at the Department of Computing and Systems Engineering at Universidad Católica del Norte in Antofagasta, Chile, where I also serve as Secretary of Research and Technological Development for the Faculty of Engineering and Geological Sciences.
+I am an Associate Professor at the Department of Computing and Systems Engineering at Universidad Católica del Norte in Antofagasta, Chile, where I also serve as Secretary of Research and Technological Development for the Faculty of Engineering and Geological Sciences.
 
 I am the Director of the Artificial Intelligence Innovation Center for the Antofagasta Region project, funded by the regional government of Antofagasta. I have also been recently selected for a FONDECYT Initiation Grant to work on Interactive Narrative Analytics.
 
