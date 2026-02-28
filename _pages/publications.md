@@ -17,6 +17,11 @@ This material is presented to ensure timely dissemination of scholarly and techn
 
 ## 2026
 - "Interactive Narrative Analytics: Bridging Computational Narrative Extraction and Human Sensemaking", B. Keith - IEEE Access 2026. [PDF](http://briankeithn.github.io/files/2026_INA.pdf)
+- "Benchmarking LLM-as-a-Judge Models for 5W1H Extraction Evaluation", J. Cassola & B. Keith - Electronics 2026. [PDF](http://briankeithn.github.io/files/2026_5W1H.pdf)
+- "Framing Analytics with Large Language Models in Congressional Transcripts", S. Concha & B. Keith, WorldCIST 2026, Portugal [Accepted].
+- "Following Socio-Environmental Conflict Narratives About Energy Transition in Chile: A Spatio-Temporal Analysis Using Dynamic Topic Modeling", J. Rieger, F. Muñoz, L. Grönberg, K. Lange, I. Ojeda, D. Briceño, C. Nass, C. Stahl, J. Cassola, C. Rojas, B. Keith, M. Lufin, F. Campos & S. Herrera, Text2Story 2026 – ECIR 2026, The Netherlands [Accepted].
+- "Agenda-based Narrative Extraction: Steering Pathfinding Algorithms with Large Language Models", B. Keith, C. Rojas, C. Meneses, E. Lam, A. Flores, I. Molina & J. Leyton, Text2Story 2026 - ECIR 2026, The Netherlands [Accepted].
+- "Semantic Interaction for Narrative Map Sensemaking: An Insight-based Evaluation", B. Keith, F. German, E. Krokos, S.Joseph & C. North, Text2Story 2026 - ECIR 2026, The Netherlands [Accepted].
 - "A Literature Review of LLM-as-a-Judge Methods for Evaluating 5W1H Information Extraction in the Context of Requirements Engineering", J. Cassola, I. Donoso & B. Keith - CIMPS 2025, Peru [In Press].
 - "Leveraging Data Analysis in Agile Software Development: Applications, Barriers, and Opportunities", J. Cassola, B. Keith & I. Donoso - CIMPS 2025, Peru [In Press].
 - "Managing Mining Environmental Liabilities in Arid Regions: Sustainable Circular Economy Approaches", E. Lam, I. Montofré & B. Keith - Book Chapter 2026 [In Press].
@@ -44,7 +49,7 @@ This material is presented to ensure timely dissemination of scholarly and techn
 - "Evaluating the Ability of Computationally Extracted Narrative Maps to Encode Media Framing", S. Concha & B. Keith - Text2Story Workshop 2024, Scotland. [PDF](http://briankeithn.github.io/files/2024_Framing.pdf)
 - "Evaluation of the Geochemical Background of Soil in a Hyper-Arid Zone using a Multivariate Statistical Methodology: The Case of the City of Antofagasta in the Atacama Desert", B. Keith, E. Lam, Í. Montofré, V. Zetola, J. Urrutia, C. Herrera & J. Bech - Chemosphere. [PDF](http://briankeithn.github.io/files/2024_Chemosphere.pdf)
 - "Predictive modeling of on‐time graduation in computing engineering programs: A case study from Northern Chile", A. Quelopana, B. Keith & R. Pizarro - Computer Applications in Engineering Education. [PDF](http://briankeithn.github.io/files/2024_CAE.pdf)
-- "The Scientific Landscape of Phytoremediation of Tailings: A Bibliometric and Scientometric Analysis", B. Keith, E. Lam, Í. Montofré, V. Zetola, & J. Bech - 
+- "The Scientific Landscape of Phytoremediation of Tailings: A Bibliometric and Scientometric Analysis", B. Keith, E. Lam, Í. Montofré, V. Zetola & J. Bech - 
 International Journal of Phytoremediation. [PDF](http://briankeithn.github.io/files/2024_Tailings_Draft.pdf)
 - "From Mine Waste to Construction Materials: A Bibliometric
 Analysis of Mining Waste Recovery and Tailing Utilization
