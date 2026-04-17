@@ -22,7 +22,7 @@ The Interactive Narrative Analytics framework integrates five core components: c
 
 - **[Agenda-based Narrative Extraction: Steering Pathfinding Algorithms with Large Language Models](http://briankeithn.github.io/files/2026_Agenda.pdf)**, B. Keith, C. Rojas, C. Meneses, E. Lam, A. Flores, I. Molina & J. Leyton, Text2Story 2026 - ECIR 2026, The Netherlands. 🏆 Best Paper Award. *Presents a modified version of the narrative trails algorithm that uses LLMs to steer the extracted narratives toward user-based agendas.*
 
-- **[Semantic Interaction for Narrative Map Sensemaking: An Insight-based Evaluation](http://briankeithn.github.io/files/2026_Semantic.pd)**, B. Keith, F. German, E. Krokos, S.Joseph & C. North, Text2Story 2026 - ECIR 2026, The Netherlands. 🥈 Best Paper Runner-Up Award. *Presents an study of the effectiveness of semantic interaction for narrative maps and compares against a non-interactive version of narrative maps and a simple timeline approach.*
+- **[Semantic Interaction for Narrative Map Sensemaking: An Insight-based Evaluation](http://briankeithn.github.io/files/2026_Semantic.pdf)**, B. Keith, F. German, E. Krokos, S.Joseph & C. North, Text2Story 2026 - ECIR 2026, The Netherlands. 🥈 Best Paper Runner-Up Award. *Presents an study of the effectiveness of semantic interaction for narrative maps and compares against a non-interactive version of narrative maps and a simple timeline approach.*
 
 - **[Narrative Maps Visualization Tool (NMVT): An interactive narrative analytics system based on the narrative maps framework](http://briankeithn.github.io/files/2025_NMVT.pdf)** - B. Keith, SoftwareX 2025. *Presents an open-source interactive tool for extracting and visualizing narrative structures from news collections.*
 
