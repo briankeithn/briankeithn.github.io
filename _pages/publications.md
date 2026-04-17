@@ -17,13 +17,12 @@ This material is presented to ensure timely dissemination of scholarly and techn
 
 ## 2026
 - "Interactive Narrative Analytics: Bridging Computational Narrative Extraction and Human Sensemaking", B. Keith - IEEE Access 2026. [PDF](http://briankeithn.github.io/files/2026_INA.pdf)
+- "Agenda-based Narrative Extraction: Steering Pathfinding Algorithms with Large Language Models", B. Keith, C. Rojas, C. Meneses, E. Lam, A. Flores, I. Molina & J. Leyton, Text2Story 2026 - ECIR 2026, The Netherlands. 🏆 Best Paper Award [PDF](http://briankeithn.github.io/files/2026_Agenda.pdf).
+- "Semantic Interaction for Narrative Map Sensemaking: An Insight-based Evaluation", B. Keith, F. German, E. Krokos, S.Joseph & C. North, Text2Story 2026 - ECIR 2026, The Netherlands. 🥈 Best Paper Runner-Up Award [PDF](http://briankeithn.github.io/files/2026_Semantic.pdf).
+- "Following Socio-Environmental Conflict Narratives About Energy Transition in Chile: A Spatio-Temporal Analysis Using Dynamic Topic Modeling", J. Rieger, F. Muñoz, L. Grönberg, K. Lange, I. Ojeda, D. Briceño, C. Nass, C. Stahl, J. Cassola, C. Rojas, B. Keith, M. Lufin, F. Campos & S. Herrera, Text2Story 2026 – ECIR 2026, The Netherlands [PDF](http://briankeithn.github.io/files/2026_Conflicts.pdf).
 - "Benchmarking LLM-as-a-Judge Models for 5W1H Extraction Evaluation", J. Cassola & B. Keith - Electronics 2026. [PDF](http://briankeithn.github.io/files/2026_5W1H.pdf)
-- "Framing Analytics with Large Language Models in Congressional Transcripts", S. Concha & B. Keith, WorldCIST 2026, Portugal [Accepted].
-- "Following Socio-Environmental Conflict Narratives About Energy Transition in Chile: A Spatio-Temporal Analysis Using Dynamic Topic Modeling", J. Rieger, F. Muñoz, L. Grönberg, K. Lange, I. Ojeda, D. Briceño, C. Nass, C. Stahl, J. Cassola, C. Rojas, B. Keith, M. Lufin, F. Campos & S. Herrera, Text2Story 2026 – ECIR 2026, The Netherlands [Accepted].
-- "Agenda-based Narrative Extraction: Steering Pathfinding Algorithms with Large Language Models", B. Keith, C. Rojas, C. Meneses, E. Lam, A. Flores, I. Molina & J. Leyton, Text2Story 2026 - ECIR 2026, The Netherlands [Accepted].
-- "Semantic Interaction for Narrative Map Sensemaking: An Insight-based Evaluation", B. Keith, F. German, E. Krokos, S.Joseph & C. North, Text2Story 2026 - ECIR 2026, The Netherlands [Accepted].
-- "A Literature Review of LLM-as-a-Judge Methods for Evaluating 5W1H Information Extraction in the Context of Requirements Engineering", J. Cassola, I. Donoso & B. Keith - CIMPS 2025, Peru [In Press].
-- "Leveraging Data Analysis in Agile Software Development: Applications, Barriers, and Opportunities", J. Cassola, B. Keith & I. Donoso - CIMPS 2025, Peru [In Press].
+- "Framing Analytics with Large Language Models in Congressional Transcripts", S. Concha & B. Keith, WorldCIST 2026, Portugal (Accepted, pre-print available here) [PDF](http://briankeithn.github.io/files/2026_Framing.pdf).
+- "Ethics and Responsability in AI" ("Ética y Responsabilidad en la IA"), E. Lam, I. Montofré & B. Keith - Book Chapter 2026 [PDF]((http://briankeithn.github.io/files/2026_Ethics.pdf)).
 - "Managing Mining Environmental Liabilities in Arid Regions: Sustainable Circular Economy Approaches", E. Lam, I. Montofré & B. Keith - Book Chapter 2026 [In Press].
 
 ## 2025
@@ -42,6 +41,8 @@ This material is presented to ensure timely dissemination of scholarly and techn
 - "Enhancing Chatbot Performance in a SaaS Platform Through Retrieval-Augmented Generation and Prompt Engineering: A Case Study in Behavioral Safety Analysis", J. Rivera, S. Zapata, R. Pizarro & B. Keith - Knowledge 2025. [PDF](http://briankeithn.github.io/files/2025_Chatbot.pdf)
 - "Desarrollo de Modelos de Quantum Machine Learning no Supervisado para Clustering de Datos Geoquímicos", M. Orellana, E. Lam & B. Keith - Congreso de la Sociedad Chilena de las Ciencias del Suelo 2025. [PDF](http://briankeithn.github.io/files/2025_SCHCS.pdf)
 - "Advancing long-term open pit mine planning with quantum computing - concepts, reformulations and implementation", A. Quelopana, B. Keith & J. Canales - APCOM Conference 2025, Australia. [PDF](http://briankeithn.github.io/files/2025_APCOM.pdf)
+- "A Literature Review of LLM-as-a-Judge Methods for Evaluating 5W1H Information Extraction in the Context of Requirements Engineering", J. Cassola, I. Donoso & B. Keith - CIMPS 2025, Peru (Accepted, pre-print available here). [PDF](http://briankeithn.github.io/files/2025_5W1H_Software.pdf).
+- "Leveraging Data Analysis in Agile Software Development: Applications, Barriers, and Opportunities", J. Cassola, B. Keith & I. Donoso - CIMPS 2025, Peru (Accepted, pre-print available here). [PDF]((http://briankeithn.github.io/files/2025_Agile.pdf)).
 - "Smart Measurement of Human Factors and Productivity in Industrial Contexts", J. Leyton, C. Rojas, A. Gómez & B. Keith - IJCIEOM Conference 2025, Italy. [PDF](http://briankeithn.github.io/files/2025_Smart.pdf)
 
 ## 2024
