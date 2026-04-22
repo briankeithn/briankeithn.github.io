@@ -22,7 +22,7 @@ This material is presented to ensure timely dissemination of scholarly and techn
 - "Following Socio-Environmental Conflict Narratives About Energy Transition in Chile: A Spatio-Temporal Analysis Using Dynamic Topic Modeling", J. Rieger, F. Muñoz, L. Grönberg, K. Lange, I. Ojeda, D. Briceño, C. Nass, C. Stahl, J. Cassola, C. Rojas, B. Keith, M. Lufin, F. Campos & S. Herrera, Text2Story 2026 – ECIR 2026, The Netherlands [PDF](http://briankeithn.github.io/files/2026_Conflicts.pdf).
 - "Benchmarking LLM-as-a-Judge Models for 5W1H Extraction Evaluation", J. Cassola & B. Keith - Electronics 2026. [PDF](http://briankeithn.github.io/files/2026_5W1H.pdf)
 - "Framing Analytics with Large Language Models in Congressional Transcripts", S. Concha & B. Keith, WorldCIST 2026, Portugal (Accepted, pre-print available here) [PDF](http://briankeithn.github.io/files/2026_Framing.pdf).
-- "Ethics and Responsability in AI" ("Ética y Responsabilidad en la IA"), E. Lam, I. Montofré & B. Keith - Book Chapter 2026 [PDF](http://briankeithn.github.io/files/2026_Ethics.pdf).
+- "Ethics and Responsability in AI" ("Ética y Responsabilidad en la IA"), B. Keith - Book Chapter 2026 [PDF](http://briankeithn.github.io/files/2026_Ethics.pdf).
 - "Managing Mining Environmental Liabilities in Arid Regions: Sustainable Circular Economy Approaches", E. Lam, I. Montofré & B. Keith - Book Chapter 2026 [In Press].
 
 ## 2025
